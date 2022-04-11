@@ -1,5 +1,6 @@
 body {
-    background: #572f72;
+    background: url(../images/totoro.gif);
+    background-size: cover;
     color: #ffe43d;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
@@ -18,4 +19,10 @@ a {
     justify-content: center;
     height: 100vh;
     vertical-align: top;
+}
+
+#mainBodyContent {
+    background: #00000096;
+    border-radius: 20px;
+    padding: 10px;
 }
