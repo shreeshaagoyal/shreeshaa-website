@@ -1,0 +1,21 @@
+body {
+    background: #572f72;
+    color: #ffe43d;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0;
+}
+
+a {
+    color: unset;
+}
+
+#mainBody {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    vertical-align: top;
+}
